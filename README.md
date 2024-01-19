@@ -1,8 +1,5 @@
 # 👋 Hey there, I'm Abdelmounaim Bounab!
 
-![Profile Views](https://komarev.com/ghpvc/?username=bnb999)
-
-
 I'm State Engineer in Computer Systems Engineering graduated from Higher School of Computer Science and a current student of Artificial Intelligence at Paris Vincennes University. With a passion for technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev and IoT.
 
 
@@ -21,6 +18,11 @@ I'm State Engineer in Computer Systems Engineering graduated from Higher School 
 - 🌐 Enthusiastic about IoT and its transformative impact on our connected world.
 - 📊 Fascinated by Data Science and its power to unveil insights from complex datasets.
 - ⚙️ Tech at heart, with a keen interest in Dev practices for efficient software development.
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=EagleEye1107&color=blue" />
+</p>
+
 
 ## 🌍 Recent Endeavors
 

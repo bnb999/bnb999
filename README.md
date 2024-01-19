@@ -31,6 +31,6 @@ Recently, I collaborated on a captivating project at Institut Polytechnique of P
 - 📫 Reach out to me via email: abdelmounaim.bounab@gmail.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bounab-a-478616176/)
 
-Whether it's AI, IoT, Data Science, or just a tech enthusiast chat, I'm always open to engaging conversations and collaborations! 😄
+Whether it's AI, IoT, Data Science, Embedded Systems or just a tech enthusiast chat, I'm always open to engaging conversations and collaborations! 😄
 
 

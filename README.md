@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hey there, I'm Abdelmounaim Bounab!
 
-<!--
-**abdou-bnb/abdou-bnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a driven State Engineer in Computer Systems Engineering and a current student of Artificial Intelligence at Paris Vincennes University. With a passion for technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev and IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Into
+
+- 🤖 Currently diving deep into the world of AI, exploring its endless possibilities.
+- 🌐 Enthusiastic about IoT and its transformative impact on our connected world.
+- 📊 Fascinated by Data Science and its power to unveil insights from complex datasets.
+- ⚙️ Tech at heart, with a keen interest in Dev practices for efficient software development.
+
+## 🌍 Recent Endeavors
+
+Recently, I collaborated on a captivating project at Institut Polytechnique of Paris, delving into the intricate world of Microcontrollers to predict the power consumption of energy.
+
+
+## 💬 Let's Connect & Collaborate
+
+- 📫 Reach out to me via email: abdelmounaim.bounab@gmail.com
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bounab-a-478616176/)
+
+Whether it's AI, IoT, Data Science, or just a tech enthusiast chat, I'm always open to engaging conversations and collaborations! 😄

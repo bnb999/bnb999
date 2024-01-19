@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a driven State Engineer in Computer Systems Engineering and a current student of Artificial Intelligence at Paris Vincennes University. With a passion for technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev and IoT.
+I'm a driven State Engineer in Computer Systems Engineering graduated from Higher School of Computer Science and a current student of Artificial Intelligence at Paris Vincennes University. With a passion for technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev and IoT.
 
 ## 🌱 What I'm Into
 
@@ -30,8 +30,3 @@ Whether it's AI, IoT, Data Science, or just a tech enthusiast chat, I'm always o
 
 
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>

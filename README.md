@@ -12,12 +12,12 @@ I'm State Engineer in Computer Systems Engineering graduated from Higher School 
 
 
 
-## 🌱 What I'm Into
+## What I'm Into
 
-- 🤖 Currently diving deep into the world of AI, exploring its endless possibilities.
-- 🌐 Enthusiastic about IoT and its transformative impact on our connected world.
-- 📊 Fascinated by Data Science and its power to unveil insights from complex datasets.
-- ⚙️ Tech at heart, with a keen interest in Dev practices for efficient software development.
+-  Currently diving deep into the world of AI, exploring its endless possibilities.
+-  Enthusiastic about IoT and its transformative impact on our connected world.
+-  Fascinated by Data Science and its power to unveil insights from complex datasets.
+-  Tech at heart, with a keen interest in Dev practices for efficient software development.
 
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=EagleEye1107&color=blue" />

@@ -35,7 +35,7 @@ Recently, I worked on an innovative project at DeepQual, where I developed a con
 ## 💬 Let's Connect & Collaborate
 
 - 📫 Reach out to me via email: abdelmounaim.bounab@gmail.com
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bounab-a-478616176/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bnb999)
 
 Whether it's AI, IoT, Data Science, Embedded Systems or just a tech enthusiast chat, I'm always open to engaging conversations and collaborations! 😄
 

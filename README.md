@@ -1,6 +1,10 @@
 # 👋 Hey there, I'm Abdelmounaim Bounab!
 
-I'm State Engineer in Computer Systems Engineering graduated from Higher School of Computer Science and a current student of Artificial Intelligence at Paris Vincennes University. With a passion for technology and innovation, I'm always exploring the exciting realms of AI, Data Science, Dev and IoT.
+State Engineer in Computer Systems Engineering graduated from the Higher School of Computer Science and Paris 8 Vincennes University. Driven by a passion for technology and innovation, I am dedicated to exploring the exciting fields of Artificial Intelligence, Data Science, Development, and the Internet of Things (IoT).
+
+With strong multilingual skills, I am proficient in English (C1), French (C1), Arabic (C2), and have a basic knowledge of Spanish (A1).
+
+I am available to design and develop innovative solutions in AI, Data Science, software development, and IoT, tackling complex technical challenges with creativity and efficiency.
 
 
 <h3 align="left">Languages and Tools:</h3>

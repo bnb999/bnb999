@@ -2,7 +2,7 @@
 
 State Engineer in Computer Systems Engineering graduated from the Higher School of Computer Science and Paris 8 Vincennes University. Driven by a passion for technology and innovation, I am dedicated to exploring the exciting fields of Artificial Intelligence, Data Science, Development, and the Internet of Things (IoT).
 
-With strong multilingual skills, I am proficient in English (C1), French (C1), Arabic (C2), and have a basic knowledge of Spanish (A1).
+With strong multilingual skills, I am proficient in English (C1), French (C1), Arabic (C2), and have a basic knowledge of German (A1).
 
 I am available to design and develop innovative solutions in AI, Data Science, software development, and IoT, tackling complex technical challenges with creativity and efficiency.
 

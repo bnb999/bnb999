@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Abdelmounaim Bounab!
+# 👋 Hey there, I'm Abdelmounaim !
 
 State Engineer in Computer Systems Engineering with 3 years of experience, graduated from the Higher School of Computer Science and Paris 8 Vincennes University. Driven by a passion for technology and innovation, I am dedicated to exploring the exciting fields of Artificial Intelligence, Data Science, Development, and the Internet of Things (IoT).
 
